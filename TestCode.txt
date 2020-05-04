@@ -1,0 +1,7 @@
+function main() {
+   const print = "World";
+   log(print);
+}
+
+log("Hello");
+main();
